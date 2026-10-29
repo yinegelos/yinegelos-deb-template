@@ -1,0 +1,8 @@
+Package: yinegel-arac
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Abdullah Yiğit KARAKUŞ <abdullahyigitkarakus07@gmail.com>
+Description: YinegelOS uygulamaları derlerken kullanmak için Deb şablonu
+ YinegelOS sistemlerinde dağıtım yapılması için tasarlanmış standart paket yapısı.

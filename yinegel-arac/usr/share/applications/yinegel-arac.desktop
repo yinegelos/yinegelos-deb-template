@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Yinegel Uygulama
+Exec=/usr/bin/yinegel-app-script
+Icon=utilities-terminal
+Type=Application
+Categories=Utility;
